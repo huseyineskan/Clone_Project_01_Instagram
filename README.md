@@ -2,4 +2,4 @@
 
 This is instagram clone project with pure CSS
 
-![Drag Racing](Dragster.jpg)
+![Instagram Clone](https://github.com/huseyineskan/instagram_clone/blob/main/Instagram.png?raw=true)
