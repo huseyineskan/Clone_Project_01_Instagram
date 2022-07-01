@@ -1,2 +1,5 @@
-# instagram_clone
-This is instagram clone project
+# Basic Instagram Clone
+
+This is instagram clone project with pure CSS
+
+![Drag Racing](Dragster.jpg)
